@@ -20,6 +20,8 @@ body {
 }
 .img-container {
   border-radius: 20px;
+  height: 288px;
+  width: 288px;
 }
 .img-container img {
   width: 100%;
@@ -32,8 +34,11 @@ body {
 }
 .text-container h1 {
   font-size: 22px;
+  margin-top: 24px;
 }
 
 .text-container p {
   color: #7d889e;
+  font-size: 15px;
+  padding: 15px;
 }
